@@ -1,2 +1,4 @@
-# MoneyChallenge
-cccc
+- Tên trò chơi: Money Challenge
+- Thời gian hoàn thành: 1 tuần
+- Luật chơi: Người chơi điều khiển nhân vật di chuyển sang phải hoặc sang trái để ăn tiền trên đường chạy, mục đích là để kiếm nhiều tiền. Nếu chạm vào bom, người chơi sẽ chết và trò chơi kết thúc.
+- Hướng phát triển trò chơi trong tương lai (để trò chơi hoàn thiện hơn): Có thể thêm một vài loại vật cản như hàng rào để tăng độ khó, có thêm mạng sống khi người chơi nhặt được thuốc, thêm hình ảnh và âm thanh cho trò chơi sinh động.
